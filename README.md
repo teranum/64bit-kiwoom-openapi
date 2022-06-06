@@ -6,5 +6,5 @@ ActiveX PorgID:
 
 KHOPENAPI64.KHOpenAPICtrl.1
 
-# 키움증권과 아무런 연관 없음
+* 키움증권과 아무런 연관 없음
 
