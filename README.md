@@ -1,10 +1,8 @@
 # 64bit-openapi-ocx
 
-최신판 vcredist 64비트 버젼 필요
+*최신판 vcredist 64비트 버젼 필요
 
-ActiveX PorgID:
+*ActiveX PorgID: KHOPENAPI64.KHOpenAPICtrl.1
 
-KHOPENAPI64.KHOpenAPICtrl.1
-
-* 키움증권과 아무런 연관 없음
+키움증권과 아무런 연관 없음
 
