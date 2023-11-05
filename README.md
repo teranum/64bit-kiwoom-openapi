@@ -1,7 +1,8 @@
 # 64bit-kiwoom-openapi-ocx
 
-* 국내용 ProgID: KHOPENAPI64.KHOpenAPICtrl.1
-* 해외용 ProgID: KFOPENAPI64.KFOpenAPICtrl.1
+* 국내용 ProgID: KHOPENAPI.KHOpenAPICtrl.1
+* 해외용 ProgID: KFOPENAPI.KFOpenAPICtrl.1
+* *32비트/64비트 ProgID, GUID 동일 (2023/11/05 업데이트)
 
 # 설치방법
 1. 최신판 vcredist x64 버젼 [link](https://docs.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170) 설치
