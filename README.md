@@ -2,7 +2,8 @@
 
 * 국내용 ProgID: KHOPENAPI.KHOpenAPICtrl.1
 * 해외용 ProgID: KFOPENAPI.KFOpenAPICtrl.1
-* *32비트/64비트 ProgID, GUID 동일, C# nuget KHOpenAPI.NET 버젼 1.4.0 이상 필요 (2023/11/05 업데이트)
+* *32비트/64비트 ProgID, GUID 동일, 소스수정 없이 빌드환경만 64비트로 바꾸어주면 됨.(2023/11/05 업데이트)
+* *nuget KHOpenApi.NET 이용 할 경우 버젼 1.4.0 이상 설치
 
 # 설치방법
 1. 최신판 vcredist x64 버젼 [link](https://docs.microsoft.com/ko-kr/cpp/windows/latest-supported-vc-redist?view=msvc-170) 설치
